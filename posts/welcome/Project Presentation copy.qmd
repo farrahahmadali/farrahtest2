@@ -1,0 +1,11 @@
+---
+title: "Project Presentation"
+author: "Farrah Ali"
+date: "2023-11-29"
+categories: [Project]
+image: projpic.png
+---
+
+Here is the link to our final project presentation:
+
+<https://www.canva.com/design/DAF0gDy5oQw/i10-D9kjrIge-SOYmvlz7A/edit?utm_content=DAF0gDy5oQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
